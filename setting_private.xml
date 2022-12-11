@@ -16,7 +16,7 @@
     <mirror>
       <id>nexus</id>
       <mirrorOf>*</mirrorOf>
-      <url>http://52.64.212.87:8081/repository/vinayaka_maven_proxy/</url>
+      <url>http://18.144.52.7:8081/repository/praveen_proxy/</url>
     </mirror>
   </mirrors>
   <profiles>
